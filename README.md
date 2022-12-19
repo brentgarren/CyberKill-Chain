@@ -5,6 +5,7 @@
 
 Reconnaissance
 <br>
+Is the discovering and collecting of information on a system or victim, the planning phase for adversaries
 
 ********
 
