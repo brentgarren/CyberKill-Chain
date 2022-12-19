@@ -9,30 +9,30 @@ Is the discovering and collecting of information on a system or victim, the plan
 
 ********
 
-Weaponization
+**Weaponization**
 <br>
 
 ********
 
-Delivery
+**Delivery**
 <br>
 
 ********
 
-Exploitation
+**Exploitation**
 <br>
 
 ********
 
-Installation
+**Installation**
 <br>
 
 ********
 
-Command and Control
+**Command and Control**
 <br>
 
 ********
 
-Actions on Objections
+**Actions on Objections**
 <br>
