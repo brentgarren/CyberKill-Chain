@@ -8,34 +8,34 @@ Reconnaissance
 
 ********
 <br>
-Reconnaissance
+Weaponization
 <br>
 
 ********
 <br>
-Reconnaissance
-<br>
-
-********
-
-<br>
-Reconnaissance
+Delivery
 <br>
 
 ********
 
 <br>
-Reconnaissance
+Exploitation
 <br>
 
 ********
 
 <br>
-Reconnaissance
+Installation
 <br>
 
 ********
 
 <br>
-Reconnaissance
+Command and Control
+<br>
+
+********
+
+<br>
+Actions on Objections
 <br>
